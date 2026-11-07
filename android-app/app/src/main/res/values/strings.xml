@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AgriShield</string>
+    <string name="tagline">Predict, Protect &amp; Recover</string>
+    
+    <!-- Navigation Tabs -->
+    <string name="nav_predict">Predict</string>
+    <string name="nav_protect">Protect</string>
+    <string name="nav_recover">Recover</string>
+    <string name="nav_reconnect">Market Salvage</string>
+    
+    <!-- Module A: Predict -->
+    <string name="title_predict">Pre-Cultivation Decision Engine</string>
+    <string name="label_district">District</string>
+    <string name="label_area">Land Area (Acres)</string>
+    <string name="label_soil_type">Soil Type</string>
+    <string name="label_irrigation">Irrigation Source</string>
+    <string name="label_budget">Cultivation Budget (₹)</string>
+    <string name="btn_evaluate_crops">Evaluate &amp; Compare Crops</string>
+    <string name="header_comparison">Top 3 Recommended Crops</string>
+    <string name="label_pessimistic">Pessimistic Scenario (Low Demand)</string>
+    <string name="label_normal">Normal Scenario (Expected)</string>
+    <string name="label_optimistic">Optimistic Scenario (High Demand)</string>
+    <string name="label_expected_profit">Expected Net Profit</string>
+    <string name="label_harvest_date">Expected Harvest</string>
+    
+    <!-- Module B: Protect -->
+    <string name="title_protect">Crop Risk Monitoring &amp; Alerts</string>
+    <string name="label_current_weather">Current Agro-Weather</string>
+    <string name="header_active_alerts">Active Warnings &amp; Advisories</string>
+    <string name="header_stage_guidance">Crop Stage Care</string>
+    
+    <!-- Module C: Recover -->
+    <string name="title_recover">Disaster Management &amp; PMFBY</string>
+    <string name="btn_report_loss">Report Crop Loss</string>
+    <string name="pmfby_72h_timer">PMFBY 72-Hour Calamity Timer</string>
+    <string name="pmfby_helpline_label">National PMFBY Helpline: 14447</string>
+    <string name="btn_generate_dossier">Generate Official Claim Dossier</string>
+    <string name="sdrf_relief_title">Estimated SDRF Input Subsidy</string>
+    
+    <!-- Module D: Reconnect -->
+    <string name="title_reconnect">Alternative Buyer Discovery</string>
+    <string name="btn_list_produce">List Distressed / Processing Produce</string>
+    <string name="label_quality_grade">Quality Grade</string>
+    <string name="grade_b_processing">Grade B - Industrial Processing (Puree/Sauce)</string>
+    <string name="grade_c_feed">Grade C - Livestock Feed</string>
+    <string name="safety_warning">Rotten or mouldy produce is strictly blocked for health safety.</string>
+    <string name="header_quotations">Verified Buyer Offers</string>
+    <string name="label_net_realization">Net Realization (After Transport)</string>
+    
+    <!-- Sync & Offline -->
+    <string name="status_synced">Synced</string>
+    <string name="status_pending_sync">Changes Queued Offline</string>
+    <string name="status_offline">Offline Mode Active</string>
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">அக்ரிஷீல்ட் (AgriShield)</string>
+    <string name="tagline">கணிப்போம், காப்போம், மீட்போம்</string>
+    
+    <!-- Navigation Tabs -->
+    <string name="nav_predict">பயிர் கணிப்பு</string>
+    <string name="nav_protect">பாதுகாப்பு எச்சரிக்கை</string>
+    <string name="nav_recover">மீட்பு &amp; காப்பீடு</string>
+    <string name="nav_reconnect">சந்தை மீட்பு</string>
+    
+    <!-- Module A: Predict -->
+    <string name="title_predict">சாகுபடிக்கு முந்தைய பயிர் தேர்வு</string>
+    <string name="label_district">மாவட்டம்</string>
+    <string name="label_area">நிலப்பரப்பு (ஏக்கர்)</string>
+    <string name="label_soil_type">மண் வகை</string>
+    <string name="label_irrigation">பாசன முறை</string>
+    <string name="label_budget">சாகுபடி செலவு வரவுசெலவு (₹)</string>
+    <string name="btn_evaluate_crops">பயிர்களை ஒப்பிட்டு தேர்வு செய்க</string>
+    <string name="header_comparison">சிறந்த 3 பரிந்துரைக்கப்பட்ட பயிர்கள்</string>
+    <string name="label_pessimistic">குறைந்த விலை சூழல் (சந்தை வீழ்ச்சி)</string>
+    <string name="label_normal">இயல்பான சூழல் (எதிர்பார்க்கப்படும் விலை)</string>
+    <string name="label_optimistic">உயர் விலை சூழல் (அதிக தேவை)</string>
+    <string name="label_expected_profit">எதிர்பார்க்கப்படும் நிகர லாபம்</string>
+    <string name="label_harvest_date">எதிர்பார்க்கப்படும் அறுவடை நாள்</string>
+    
+    <!-- Module B: Protect -->
+    <string name="title_protect">பயிர் அபாய கண்காணிப்பு &amp; எச்சரிக்கைகள்</string>
+    <string name="label_current_weather">தற்போதைய பண்ணை வானிலை</string>
+    <string name="header_active_alerts">செயலில் உள்ள எச்சரிக்கைகள் &amp; ஆலோசனைகள்</string>
+    <string name="header_stage_guidance">பயிர் பருவ பராமரிப்பு வழிகாட்டல்</string>
+    
+    <!-- Module C: Recover -->
+    <string name="title_recover">பேரிடர் இழப்பீடு &amp; பயிர் காப்பீடு</string>
+    <string name="btn_report_loss">பயிர் சேதத்தை பதிவு செய்க</string>
+    <string name="pmfby_72h_timer">பி.எம்.எஃப்.பி.ஒய் 72 மணி நேர அவசர கவுண்ட்டவுன்</string>
+    <string name="pmfby_helpline_label">தேசிய பயிர் காப்பீட்டு உதவி எண்: 14447</string>
+    <string name="btn_generate_dossier">அரசு இழப்பீட்டு அறிக்கையை தயார் செய்</string>
+    <string name="sdrf_relief_title">மதிப்பிடப்பட்ட மாநில பேரிடர் நிவாரண நிதி</string>
+    
+    <!-- Module D: Reconnect -->
+    <string name="title_reconnect">தொழிற்சாலை மாற்று சந்தை விற்பனை</string>
+    <string name="btn_list_produce">சேதமடைந்த/கூழ் செய்வதற்கு உகந்த விளைபொருளை பதிவிடவும்</string>
+    <string name="label_quality_grade">தர நிலை</string>
+    <string name="grade_b_processing">தரம் B - கூழ்/சாஸ் தொழிற்சாலைக்கு உகந்தது</string>
+    <string name="grade_c_feed">தரம் C - கால்நடை தீவனம்</string>
+    <string name="safety_warning">அழுகிய அல்லது பூஞ்சானம் பிடித்த விளைபொருட்கள் பாதுகாப்பு கருதி நிராகரிக்கப்படும்.</string>
+    <string name="header_quotations">சரிபார்க்கப்பட்ட தொழிற்சாலை விலைப்புள்ளிகள்</string>
+    <string name="label_net_realization">போக்குவரத்து கழித்து விவசாயி பெறும் நிகர விலை</string>
+    
+    <!-- Sync & Offline -->
+    <string name="status_synced">ஒத்திசைக்கப்பட்டது</string>
+    <string name="status_pending_sync">ஆஃப்லைனில் சேமிக்கப்பட்டது (காத்திருப்பு)</string>
+    <string name="status_offline">ஆஃப்லைன் பயன்முறை</string>
+</resources>
